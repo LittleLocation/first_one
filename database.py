@@ -6,7 +6,7 @@ from deta import Deta
 load_dotenv(".env")
 DATA_NAME = "TQbJzbUE"
 #DATA_KEY = "TQbJzbUE_VXkxWZgggZfvmCXVsGdriKcscrmfvHCU"
-DATA_KEY = os.getenv("DATA_KEY")
+DATA_KEY = os.getenv("b0gzhyby2bg_WKXqhgr66gmZVUKRoeN8dtjjef4i2uMw")
 
 deta = Deta(DATA_KEY)
 
